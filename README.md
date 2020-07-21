@@ -2,16 +2,16 @@
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical" alt="Anurag's github stats" /></a>
 #### Contact
 <a href="http://wpa.qq.com/msgrd?v=3&uin=1154418252&site=qq&menu=yes">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
 </a>
 <a href="https://t.me/yinuxy">
-  <img align="left"width="30px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/Telegram.svg" />
+  <img align="left"width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/Telegram.svg" />
 </a>
 <a href="mailto:yinuxy@qq.com">
-  <img align="left"width="30px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/email.svg" />
+  <img align="left"width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/email.svg" />
 </a>
 <a href="https://music.163.com/#/user/home?id=641108605">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/music.ico" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/music.ico" />
 </a>
 <br />
 
