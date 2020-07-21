@@ -1,6 +1,6 @@
 ### Hi there, I'm [YINUXY!](https://InfiniteYinux.github.io) 👋
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical" alt="Anurag's github stats" /></a>
-#### Contact
+
 <a href="http://wpa.qq.com/msgrd?v=3&uin=1154418252&site=qq&menu=yes">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
 </a>
