@@ -40,7 +40,7 @@ Hi, I'm YINUXY, a passionate developer from China.
 
 <a href="https://github.com/InfiniteYinux/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=github-readme-stats&theme=radical" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=Python&theme=radical" />
 </a>
 
 <a href="https://github.com/InfiniteYinux/InfiniteYinux.github.io">
