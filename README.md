@@ -45,5 +45,5 @@ Hi, I'm YINUXY, a passionate developer from China.
 
 <a href="https://github.com/InfiniteYinux/InfiniteYinux.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=InfiniteYinux.github.io&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
