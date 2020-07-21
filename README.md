@@ -1,5 +1,5 @@
 ### Hi there, I'm [YINUXY!](https://InfiniteYinux.github.io) 👋
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical ">
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=1154418252&site=qq&menu=yes">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
@@ -23,9 +23,8 @@
 
 Hi, I'm YINUXY, a passionate developer from China.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my project [pythonSripts](https://github.com/InfiniteYinux/Python)
+- 🌱 I’m currently learning Go & Docker
 - 💬 Ask me about anything [here](https://github.com/InfiniteYinux/InfiniteYinux/issues)
 
 **Languages and Tools:** 
