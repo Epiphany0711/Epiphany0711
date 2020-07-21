@@ -33,7 +33,7 @@ Hi, I'm YINUXY, a passionate developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
