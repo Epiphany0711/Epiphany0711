@@ -24,8 +24,6 @@
 [![CSDN URL](https://img.shields.io/twitter/url?color=red&label=CSDN&logo=C&logoColor=white&style=flat-square&url=https%3A%2F%2Fblog.csdn.net%2Fu013854486)](https://blog.csdn.net/u013854486)
 [![Zhihu URL](https://img.shields.io/twitter/url?color=blue&label=知乎&logo=Zhihu&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fchang-yan-34-59)](https://www.zhihu.com/people/chang-yan-34-59)
 
-<br />
-
 Hi, I'm YINUXY, a passionate developer from China.
 
 - 🔭 I’m currently working on my project [pythonSripts](https://github.com/InfiniteYinux/Python)
