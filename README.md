@@ -17,9 +17,9 @@
 </a>
 <br />
 #### Blog
-[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Fblog.yinuxy.com%2F)](https://blog.yinuxy.com/)
-[![CSDN URL](https://img.shields.io/twitter/url?color=%23F91310&label=CSDN&logo=C&logoColor=white&style=flat-square&url=https%3A%2F%2Fblog.csdn.net/u013854486%2F)](https://blog.csdn.net/u013854486)
-[![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fchang-yan-34-59)](https://www.zhihu.com/people/chang-yan-34-59)
+[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=hexo&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.itrhx.com%2F)](https://www.itrhx.com/)
+[![CSDN URL](https://img.shields.io/twitter/url?color=%23F91310&label=CSDN&logo=C&logoColor=white&style=flat-square&url=https%3A%2F%2Fitrhx.blog.csdn.net%2F)](https://itrhx.blog.csdn.net/)
+[![Zhihu URL](https://img.shields.io/twitter/url?color=%230077E6&label=Zhihu&logo=zhihu&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fitrhx)](https://www.zhihu.com/people/itrhx)
 <br />
 <br />
 
