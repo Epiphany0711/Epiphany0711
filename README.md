@@ -1,7 +1,5 @@
 ### Hi there, I'm [YINUXY!](https://InfiniteYinux.github.io) 👋
-
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical" alt="Anurag's github stats" /></a>
-
 #### Contact
 <a href="http://wpa.qq.com/msgrd?v=3&uin=1154418252&site=qq&menu=yes">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
@@ -16,6 +14,11 @@
   <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/music.ico" />
 </a>
 <br />
+
+[![BLOG URL](https://img.shields.io/twitter/url?color=FBBC05&label=BLOG&logo=HEXO&style=flat-square&url=https%3A%2F%2Fblog.yinuxy.com%2F)](https://blog.yinuxy.com/)
+
+<br />
+
 
 Hi, I'm YINUXY, a passionate developer from China.
 
