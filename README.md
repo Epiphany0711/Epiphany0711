@@ -50,4 +50,4 @@ Hi, I'm YINUXY, a passionate developer from China.
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
 
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/InfiniteYinux
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/InfiniteYinux)
