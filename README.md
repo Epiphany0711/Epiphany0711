@@ -49,3 +49,5 @@ Hi, I'm YINUXY, a passionate developer from China.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
+
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/InfiniteYinux
