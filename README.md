@@ -26,9 +26,9 @@
 
 Hi, I'm YINUXY, a passionate developer from China.
 
-- 🔭 I’m currently working on my project [pythonSripts](https://github.com/InfiniteYinux/Python)
+- 🔭 I’m currently working on my project [pythonSripts](https://github.com/tsaac/Python)
 - 🌱 I’m currently learning Go & Docker
-- 💬 Ask me about anything [here](https://github.com/InfiniteYinux/InfiniteYinux/issues)
+- 💬 Ask me about anything [here](https://github.com/InfiniteYinux/tsaac/issues)
 
 **Languages and Tools:** 
 
@@ -40,12 +40,12 @@ Hi, I'm YINUXY, a passionate developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-<a href="https://github.com/InfiniteYinux/Python">
+<a href="https://github.com/tsaac/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=Python&theme=radical" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=Python&theme=radical" />
 </a>
 
-<a href="https://github.com/InfiniteYinux/InfiniteYinux.github.io">
+<a href="https://github.com/InfiniteYinux/tsaac.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InfiniteYinux&repo=InfiniteYinux.github.io&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
