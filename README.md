@@ -1,4 +1,4 @@
-### Hi there, I'm [YINUXY!](https://InfiniteYinux.github.io) 👋
+### Hi there, I'm [YINUXY!](https://tsaac.github.io) 👋
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical ">
 
@@ -6,16 +6,16 @@
   <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
 </a>
 <a href="https://t.me/yinuxy">
-  <img align="left"width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/Telegram.svg" />
+  <img align="left"width="20px" src="https://raw.githubusercontent.com/tsaac/tsaac/master/assets/Telegram.svg" />
 </a>
 <a href="mailto:yinuxy@qq.com">
-  <img align="left"width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/email.svg" />
+  <img align="left"width="20px" src="https://raw.githubusercontent.com/tsaac/tsaac/master/assets/email.svg" />
 </a>
 <a href="https://music.163.com/#/user/home?id=641108605">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/music.ico" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/tsaac/tsaac/master/assets/music.ico" />
 </a>
 <a href="https://space.bilibili.com/335204769">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/bilibili.svg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/tsaac/tsaac/master/assets/bilibili.svg" />
 </a>
 <br />
 <br />
@@ -28,7 +28,7 @@ Hi, I'm YINUXY, a passionate developer from China.
 
 - 🔭 I’m currently working on my project [pythonSripts](https://github.com/tsaac/Python)
 - 🌱 I’m currently learning Go & Docker
-- 💬 Ask me about anything [here](https://github.com/InfiniteYinux/tsaac/issues)
+- 💬 Ask me about anything [here](https://github.com/tsaac/tsaac/issues)
 
 **Languages and Tools:** 
 
@@ -45,7 +45,7 @@ Hi, I'm YINUXY, a passionate developer from China.
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=Python&theme=radical" />
 </a>
 
-<a href="https://github.com/InfiniteYinux/tsaac.github.io">
+<a href="https://github.com/tsaac/tsaac.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
