@@ -1,4 +1,4 @@
-### Hi there, I'm [YINUXY!](https://tsaac.github.io) 👋
+### Hi there, I'm [Epiphany0711!](https://Epiphany0711.github.io) 👋
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical ">
 
