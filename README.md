@@ -26,9 +26,9 @@
 
 Hi, I'm yinuxy, a passionate developer from China.
 
-- 🔭 I’m currently working on my project [pythonSripts](https://github.com/tsaac/Python)
+- 🔭 I’m currently working on my project [pythonSripts](https://github.com/yinuxy/Python)
 - 🌱 I’m currently learning Go & Docker
-- 💬 Ask me about anything [here](https://github.com/tsaac/tsaac/issues)
+- 💬 Ask me about anything [here](https://github.com/yinuxy/yinuxy/issues)
 
 **Languages and Tools:** 
 
@@ -42,10 +42,10 @@ Hi, I'm yinuxy, a passionate developer from China.
 
 <a href="https://github.com/yinuxy/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=Python&theme=radical" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yinuxy&repo=Python&theme=radical" />
 </a>
 
 <a href="https://github.com/yinuxy/yinuxy.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=yinuxy.github.io&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yinuxy&repo=yinuxy.github.io&theme=radical" />
 </a>
