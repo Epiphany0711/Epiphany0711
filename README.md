@@ -1,4 +1,4 @@
-### Hi there, I'm [Epiphany0711!](https://Epiphany0711.github.io) 👋
+### Hi there, I'm [yinuxy!](https://yinuxy.github.io) 👋
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical ">
 
@@ -24,7 +24,7 @@
 [![CSDN URL](https://img.shields.io/twitter/url?color=red&label=CSDN&logo=C&logoColor=white&style=flat-square&url=https%3A%2F%2Fblog.csdn.net%2Fu013854486)](https://blog.csdn.net/u013854486)
 [![Zhihu URL](https://img.shields.io/twitter/url?color=blue&label=知乎&logo=Zhihu&style=flat-square&url=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fchang-yan-34-59)](https://www.zhihu.com/people/chang-yan-34-59)
 
-Hi, I'm Epiphany, a passionate developer from China.
+Hi, I'm yinuxy, a passionate developer from China.
 
 - 🔭 I’m currently working on my project [pythonSripts](https://github.com/tsaac/Python)
 - 🌱 I’m currently learning Go & Docker
@@ -40,12 +40,12 @@ Hi, I'm Epiphany, a passionate developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-<a href="https://github.com/tsaac/Python">
+<a href="https://github.com/yinuxy/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=Python&theme=radical" />
 </a>
 
-<a href="https://github.com/tsaac/tsaac.github.io">
+<a href="https://github.com/yinuxy/yinuxy.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=InfiniteYinux.github.io&theme=radical" />
 </a>
