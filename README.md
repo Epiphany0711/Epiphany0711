@@ -1,9 +1,9 @@
 ### Hi there, I'm [yinuxy!](https://yinuxy.github.io) 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=InfiniteYinux&show_icons=true&theme=radical ">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yinuxy&show_icons=true&theme=radical ">
 
 <a href="http://wpa.qq.com/msgrd?v=3&uin=1154418252&site=qq&menu=yes">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/InfiniteYinux/InfiniteYinux/master/assets/QQ.svg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/yinuxy/yinuxy/master/assets/QQ.svg" />
 </a>
 <a href="https://t.me/yinuxy">
   <img align="left"width="20px" src="https://raw.githubusercontent.com/tsaac/tsaac/master/assets/Telegram.svg" />
@@ -47,5 +47,5 @@ Hi, I'm yinuxy, a passionate developer from China.
 
 <a href="https://github.com/yinuxy/yinuxy.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=InfiniteYinux.github.io&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tsaac&repo=yinuxy.github.io&theme=radical" />
 </a>
